@@ -11,7 +11,7 @@ branches:
 before_install:
 - pip install --upgrade pip setuptools wheel
 install:
-- pip install --upgrade memote
+- pip install git+https://github.com/opencobra/memote.git@scored_history
 script:
 - git checkout "${TRAVIS_BRANCH}"
 - ./scripts/travis_deploy.sh
