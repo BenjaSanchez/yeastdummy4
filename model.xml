@@ -30,11 +30,11 @@
     </listOfCompartments>
     <listOfSpecies>
       <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_13dpg_c" name="3-Phospho-D-glyceroyl-phosphate" fbc:charge="0" fbc:chemicalFormula="C3H4O10P2" />
-      <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_2pg_c" name="D-Glycerate-2-phosphate" fbc:charge="0" fbc:chemicalFormula="C3H4O7P" />
+      <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_2pg_c" name="D-Glycerate-2-phosphate" fbc:charge="0" fbc:chemicalFormula="C3H2O7P" />
       <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_3pg_c" name="3-Phospho-D-glycerate" fbc:charge="0" fbc:chemicalFormula="C3H4O7P" />
-      <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_6pgc_c" name="6-Phospho-D-gluconate" fbc:charge="0" fbc:chemicalFormula="C6H10O10P" />
+      <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_6pgc_c" name="6-Phospho-D-gluconate" fbc:charge="0" fbc:chemicalFormula="C6H10O10" />
       <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_6pgl_c" name="6-phospho-D-glucono-1-5-lactone" fbc:charge="0" fbc:chemicalFormula="C6H9O9P" />
-      <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_ac_c" name="Acetate" fbc:charge="0" fbc:chemicalFormula="C2H3O2" />
+      <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_ac_c" name="Acetate" fbc:charge="-1" fbc:chemicalFormula="C2H3O2" />
       <species boundaryCondition="false" compartment="e" constant="false" hasOnlySubstanceUnits="false" id="M_ac_e" name="Acetate" fbc:charge="0" fbc:chemicalFormula="C2H3O2" />
       <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_acald_c" name="Acetaldehyde" fbc:charge="0" fbc:chemicalFormula="C2H4O" />
       <species boundaryCondition="false" compartment="e" constant="false" hasOnlySubstanceUnits="false" id="M_acald_e" name="Acetaldehyde" fbc:charge="0" fbc:chemicalFormula="C2H4O" />
